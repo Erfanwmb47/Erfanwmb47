@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z5b2pjMnExaHYxZWRwNzMzcmlyYW44dTh0bnZhdjRndTdhaWthaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <!--
 **Erfanwmb47/Erfanwmb47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
