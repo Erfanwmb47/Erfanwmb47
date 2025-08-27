@@ -1,4 +1,4 @@
-# Hi I'm Erfan Ghalibaf
+# Hi I'm Erfan Qalibaf
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -26,7 +26,7 @@
 ## Get in Touch 📬
 
 📧 Email: `erfanwmb@gmail.com`  
-🌐 GitHub: [ErfanGhalbaf](https://github.com/Erfanwmb47)  
+🌐 GitHub: [Erfan Qalibaf](https://github.com/Erfanwmb47)  
 
 
 > **"Always one step ahead, always learning."**
